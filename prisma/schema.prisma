@@ -1,0 +1,99 @@
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "sqlite"
+}
+
+model ZipCode {
+  zip       String           @id
+  city      String
+  stateCode String
+  county    String
+  latitude  Float
+  longitude Float
+  timezone  String?
+  posts     CommunityPost[]
+  reports   Report[]
+  resources ResourceZipCode[]
+}
+
+model Category {
+  id          Int        @id @default(autoincrement())
+  slug        String     @unique
+  name        String
+  icon        String
+  description String
+  sortOrder   Int        @default(0)
+  resources   Resource[]
+}
+
+model Resource {
+  id                 String            @id @default(uuid())
+  name               String
+  description        String
+  categoryId         Int
+  category           Category          @relation(fields: [categoryId], references: [id])
+  subcategory        String?
+  scope              String            // national, state, county, city, zip_specific
+  url                String
+  phone              String?
+  address            String?
+  eligibilitySummary String?
+  incomeLimitNotes   String?
+  hours              String?
+  languages          String?           // comma-separated
+  stateCode          String?
+  county             String?
+  linkStatus         String            @default("ok") // ok, broken, unknown
+  verifiedAt         DateTime?
+  verifiedBy         String?
+  createdAt          DateTime          @default(now())
+  updatedAt          DateTime          @updatedAt
+  zipCodes           ResourceZipCode[]
+}
+
+model ResourceZipCode {
+  resourceId String
+  resource   Resource @relation(fields: [resourceId], references: [id], onDelete: Cascade)
+  zipCode    String
+  zip        ZipCode  @relation(fields: [zipCode], references: [zip])
+
+  @@id([resourceId, zipCode])
+}
+
+model CommunityPost {
+  id              String   @id @default(uuid())
+  zipCode         String
+  zip             ZipCode  @relation(fields: [zipCode], references: [zip])
+  body            String
+  category        String   // tip, question, alert, offer
+  upvotes         Int      @default(0)
+  flags           Int      @default(0)
+  status          String   @default("visible") // visible, flagged, removed
+  fingerprintHash String?
+  createdAt       DateTime @default(now())
+}
+
+model Report {
+  id               String   @id @default(uuid())
+  zipCode          String
+  zip              ZipCode  @relation(fields: [zipCode], references: [zip])
+  category         String   // unsafe_housing, employer_abuse, food_safety, utility_issue, discrimination, other
+  body             String
+  severity         Int      @default(1) // 1-5
+  locationDetails  String?
+  contactEncrypted String?
+  status           String   @default("new") // new, reviewed, routed, resolved
+  adminNotes       String?
+  createdAt        DateTime @default(now())
+}
+
+model AdminUser {
+  id           String @id @default(uuid())
+  username     String @unique
+  passwordHash String
+  createdAt    DateTime @default(now())
+}

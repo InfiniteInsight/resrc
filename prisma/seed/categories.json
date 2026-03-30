@@ -1,0 +1,14 @@
+[
+  { "slug": "food", "name": "Food Assistance", "icon": "UtensilsCrossed", "description": "SNAP, WIC, food banks, community meals, food pantries", "sortOrder": 1 },
+  { "slug": "housing", "name": "Housing Assistance", "icon": "Home", "description": "Emergency shelters, rental assistance, public housing, HUD programs", "sortOrder": 2 },
+  { "slug": "employment", "name": "Employment & Income", "icon": "Briefcase", "description": "Unemployment insurance, job training, career centers", "sortOrder": 3 },
+  { "slug": "healthcare", "name": "Healthcare", "icon": "HeartPulse", "description": "Medicaid, community health centers, free clinics, mental health", "sortOrder": 4 },
+  { "slug": "transportation", "name": "Transportation", "icon": "Bus", "description": "Free/reduced transit passes, bike shares, ride programs", "sortOrder": 5 },
+  { "slug": "utilities", "name": "Utilities & Connectivity", "icon": "Zap", "description": "LIHEAP, Lifeline phone, broadband assistance", "sortOrder": 6 },
+  { "slug": "legal", "name": "Legal Aid", "icon": "Scale", "description": "Free legal clinics, tenant rights, immigration help", "sortOrder": 7 },
+  { "slug": "education", "name": "Education & Training", "icon": "GraduationCap", "description": "GED programs, community college, libraries, digital literacy", "sortOrder": 8 },
+  { "slug": "family", "name": "Childcare & Family", "icon": "Baby", "description": "Head Start, childcare subsidies, parenting support", "sortOrder": 9 },
+  { "slug": "veterans", "name": "Veterans", "icon": "Shield", "description": "VA services, veteran-specific housing and employment", "sortOrder": 10 },
+  { "slug": "crisis", "name": "Crisis & Safety", "icon": "Phone", "description": "Domestic violence hotlines, crisis intervention, 211", "sortOrder": 11 },
+  { "slug": "community", "name": "Community Resources", "icon": "Users", "description": "Community centers, mutual aid, clothing closets, free goods", "sortOrder": 12 }
+]
