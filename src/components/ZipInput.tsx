@@ -30,13 +30,12 @@ export function ZipInput() {
   }
 
   return (
-    <form onSubmit={handleSubmit} className="w-full max-w-md mx-auto">
+    <form onSubmit={handleSubmit} noValidate className="w-full max-w-md mx-auto">
       <div className="flex gap-2">
         <div className="flex-1 relative">
           <input
             ref={inputRef}
-            type="text"
-            inputMode="numeric"
+            type="tel"
             maxLength={5}
             autoComplete="off"
             value={zip}
