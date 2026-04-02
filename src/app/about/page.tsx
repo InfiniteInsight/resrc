@@ -10,7 +10,7 @@ export default function AboutPage() {
         <p>
           Resrc is a free web application that helps people in the United
           States find verified assistance programs for food, housing,
-          employment, healthcare, transportation, and more — all by entering a
+          employment, healthcare, transportation, and more. Just enter a
           zip code.
         </p>
 
@@ -28,7 +28,7 @@ export default function AboutPage() {
             </a>
           </p>
           <p className="text-muted-foreground mt-1 text-sm">
-            An open source community project — free for everyone, forever.
+            An open source community project. Free for everyone, forever.
           </p>
 
           <div className="mt-5 pt-4 border-t border-border">
@@ -42,7 +42,7 @@ export default function AboutPage() {
         <h2 className="text-xl font-semibold pt-4">Why we built this</h2>
         <p>
           Millions of people qualify for assistance programs but never access
-          them — often because they don't know the programs exist or can't
+          them, often because they don't know the programs exist or can't
           navigate the fragmented system. Resrc puts everything in one place,
           organized by location and category, with direct links to official
           program pages.
@@ -82,8 +82,8 @@ export default function AboutPage() {
 
         <h2 className="text-xl font-semibold pt-4">Open source</h2>
         <p>
-          Resrc is fully open source. The entire codebase — from the resource
-          database to the front end — is available on{" "}
+          Resrc is fully open source. The entire codebase, from the resource
+          database to the front end, is available on{" "}
           <a
             href="https://github.com/vrnico/resrc"
             target="_blank"

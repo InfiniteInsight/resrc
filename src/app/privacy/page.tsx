@@ -46,7 +46,7 @@ export default function PrivacyPage() {
         <h2 className="text-xl font-semibold pt-4">Community posts</h2>
         <p>
           Community feed posts are anonymous. We use a temporary browser
-          fingerprint — a one-way hash that cannot identify you — solely to
+          fingerprint (a one-way hash that cannot identify you) solely to
           prevent spam (e.g., limiting posts to 5 per hour). This fingerprint
           rotates daily and is never stored permanently.
         </p>

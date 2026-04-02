@@ -85,7 +85,7 @@ export default function Home() {
                   </h3>
                   <p className="text-sm text-muted mt-1">
                     Click-to-call phone numbers, easy navigation, and fast
-                    loading — even on slow connections.
+                    loading, even on slow connections.
                   </p>
                 </div>
               </div>
