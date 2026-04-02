@@ -19,7 +19,7 @@ export function SiteHeader() {
       .then(async (res) => {
         if (res.ok) {
           const data = await res.json();
-          setUser(data.profile);
+          setUser(data);
         }
       })
       .catch(() => {})
