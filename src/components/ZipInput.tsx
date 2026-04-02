@@ -1,23 +1,20 @@
 "use client";
 
-import { useState, useRef, useEffect, FormEvent } from "react";
+import { useRef, useState, FormEvent } from "react";
 import { useRouter } from "next/navigation";
 import { Search } from "lucide-react";
 
 export function ZipInput() {
-  const [zip, setZip] = useState("");
   const [error, setError] = useState("");
   const inputRef = useRef<HTMLInputElement>(null);
   const router = useRouter();
 
-  useEffect(() => {
-    inputRef.current?.focus();
-  }, []);
-
   function handleSubmit(e: FormEvent) {
     e.preventDefault();
-    // Extract just the digits, take first 5
-    const digits = zip.replace(/\D/g, "").slice(0, 5);
+
+    // Read directly from the DOM, not React state
+    const raw = inputRef.current?.value ?? "";
+    const digits = raw.replace(/\D/g, "").slice(0, 5);
 
     if (digits.length !== 5) {
       setError("Please enter a valid 5-digit zip code.");
@@ -35,19 +32,15 @@ export function ZipInput() {
         <div className="flex-1 relative">
           <input
             ref={inputRef}
+            name="zip"
             type="tel"
             maxLength={5}
             autoComplete="off"
-            value={zip}
-            onChange={(e) => {
-              const val = e.target.value.replace(/\D/g, "").slice(0, 5);
-              setZip(val);
-              if (error) setError("");
-            }}
             placeholder="Enter zip code"
             aria-label="Zip code"
             aria-invalid={!!error}
             aria-describedby={error ? "zip-error" : undefined}
+            onChange={() => { if (error) setError(""); }}
             className={`w-full px-4 py-3 text-lg border-2 rounded-lg bg-white text-foreground transition-colors focus:outline-none focus:ring-2 focus:ring-primary focus:border-primary ${
               error ? "border-error" : "border-border"
             }`}

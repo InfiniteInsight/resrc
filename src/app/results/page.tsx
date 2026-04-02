@@ -20,9 +20,10 @@ export default async function ResultsPage({
   searchParams: Promise<{ [key: string]: string | string[] | undefined }>;
 }) {
   const params = await searchParams;
-  const zip = typeof params.zip === "string" ? params.zip : "";
+  const rawZip = Array.isArray(params.zip) ? params.zip[0] : (params.zip ?? "");
+  const zip = rawZip.replace(/\D/g, "").slice(0, 5);
 
-  if (!zip || !/^\d{5}$/.test(zip)) {
+  if (zip.length !== 5) {
     return (
       <main className="flex-1 px-4 py-12 max-w-4xl mx-auto">
         <div className="text-center py-16">
