@@ -83,13 +83,19 @@ export function ResultsContent({ zip }: ResultsContentProps) {
     if (cat !== "all") {
       fetchCategory(cat);
     } else if (data) {
-      // Reset to full results
       fetch(`/api/resources?zip=${zip}`)
         .then((res) => res.ok ? res.json() : null)
         .then((json) => { if (json) setData(json); })
         .catch(() => {});
     }
   }
+
+  // All hooks must be called before any early returns
+  const results = data?.results ?? [];
+  const sortedResults = useMemo(
+    () => sortResources(results, sortMode),
+    [results, sortMode]
+  );
 
   if (loading) {
     return (
@@ -118,12 +124,7 @@ export function ResultsContent({ zip }: ResultsContentProps) {
 
   if (!data) return null;
 
-  const { location, results, total, categories } = data;
-
-  const sortedResults = useMemo(
-    () => sortResources(results, sortMode),
-    [results, sortMode]
-  );
+  const { location, total, categories } = data;
 
   const categoryOptions: CategoryOption[] = categories.map((c) => ({
     slug: c.slug,
@@ -139,12 +140,10 @@ export function ResultsContent({ zip }: ResultsContentProps) {
 
   return (
     <>
-      {/* Location header */}
       <h1 className="text-xl sm:text-2xl font-bold text-foreground">
         Showing resources for {zip} &mdash; {location.city}, {location.state}
       </h1>
 
-      {/* Category filter */}
       <div className="mt-4">
         <CategoryFilter
           categories={categoryOptions}
@@ -153,7 +152,6 @@ export function ResultsContent({ zip }: ResultsContentProps) {
         />
       </div>
 
-      {/* Sort + count row */}
       <div className="mt-4 flex flex-wrap items-center justify-between gap-2">
         <p className="text-sm text-muted">
           {results.length} of {total}{" "}
@@ -177,7 +175,6 @@ export function ResultsContent({ zip }: ResultsContentProps) {
         </div>
       </div>
 
-      {/* Resource list */}
       {sortedResults.length > 0 ? (
         <div className="mt-4 space-y-4">
           {sortedResults.map((resource) => (
