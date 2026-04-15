@@ -768,8 +768,12 @@ States with unsearched zip code batches. Each entry lists the exact batches, cou
 
 **66/66 batches searched · 0 remaining**
 
-## Not Started (no batch config)
+## Completed: OH (171 resources · 66 batches)
 
-OH
+**66/66 batches searched · 0 remaining**
+
+---
+
+## All 50 states + DC complete!
 
 These states need batch config files created before scanning can begin.
