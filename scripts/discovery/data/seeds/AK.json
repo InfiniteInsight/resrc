@@ -1,5 +1,23 @@
 [
   {
+    "name": "Alaska 211 – United Way of Anchorage",
+    "description": "Statewide information and referral hotline connecting residents to health, community, and social services. Maintains a searchable database of hundreds of local nonprofit, government, and tribal service providers.",
+    "address": "701 W 8th Avenue, Suite 230, Anchorage, AK 99501",
+    "phone": "211",
+    "url": "https://alaska211.org",
+    "categorySlug": "community",
+    "zipCode": "99501"
+  },
+  {
+    "name": "Alaska Native Tribal Health Consortium (ANTHC)",
+    "description": "Nonprofit tribal health organization co-managing the Alaska Native Medical Center, providing comprehensive medical, surgical, and specialty care to Alaska Native and American Indian people statewide.",
+    "address": "4315 Diplomacy Drive, Anchorage, AK 99508",
+    "phone": "(907) 729-3971",
+    "url": "https://anthc.org",
+    "categorySlug": "healthcare",
+    "zipCode": "99508"
+  },
+  {
     "name": "Anchorage Gospel Rescue Mission",
     "description": "Emergency shelter providing housing, meals, and clothing for homeless men and women; operates a kitchen serving approximately 8,000 meals monthly and offers long-term recovery and life-skills programs.",
     "address": "2823 E Tudor Rd, Anchorage, AK 99507",
@@ -7,6 +25,24 @@
     "url": "https://www.anchoragerescue.org",
     "categorySlug": "housing",
     "zipCode": "99507"
+  },
+  {
+    "name": "Anchorage Neighborhood Health Center",
+    "description": "Federally Qualified Health Center providing affordable primary care, behavioral health, dental, and pharmacy services to uninsured, underinsured, and low-income residents regardless of ability to pay. Designated Health Care for the Homeless provider.",
+    "address": "4951 Business Park Boulevard, Anchorage, AK 99503",
+    "phone": "(907) 743-7200",
+    "url": "https://www.anhc.org",
+    "categorySlug": "healthcare",
+    "zipCode": "99503"
+  },
+  {
+    "name": "AWAIC – Abused Women's Aid in Crisis",
+    "description": "Alaska's largest domestic violence safe shelter, providing emergency shelter, advocacy, case management, and supportive services for women and children fleeing domestic violence. Operates a 24-hour crisis line.",
+    "address": "100 W 13th Avenue, Anchorage, AK 99501",
+    "phone": "(907) 279-9581",
+    "url": "https://awaic.org",
+    "categorySlug": "housing",
+    "zipCode": "99501"
   },
   {
     "name": "Bean's Cafe",
@@ -27,6 +63,15 @@
     "zipCode": "99501"
   },
   {
+    "name": "Brother Francis Shelter",
+    "description": "Largest homeless shelter in Alaska with nightly capacity of 240, providing temporary emergency shelter for adults 18+, evening meals, showers, laundry, case management, and housing referrals. Operated by Catholic Social Services.",
+    "address": "1021 E 3rd Ave, Anchorage, AK 99501",
+    "phone": "907-277-1731",
+    "url": "https://www.cssalaska.org/our-programs/brother-francis-shelter/",
+    "categorySlug": "housing",
+    "zipCode": "99501"
+  },
+  {
     "name": "Catholic Social Services – St. Francis House Food Pantry",
     "description": "One of Anchorage's largest food pantries, providing a 2-day emergency supply of food to anyone in need, regardless of income or background.",
     "address": "3710 E 20th Ave, Anchorage, AK 99508",
@@ -34,6 +79,15 @@
     "url": "https://www.cssalaska.org",
     "categorySlug": "food",
     "zipCode": "99508"
+  },
+  {
+    "name": "Clare House",
+    "description": "24/7 emergency shelter for women, children, and expectant mothers operated by Catholic Social Services, providing safe shelter, meals, 24-hour support, and case management for families transitioning out of homelessness.",
+    "address": "4110 Spenard Road, Anchorage, AK 99517",
+    "phone": "(907) 563-4545",
+    "url": "https://www.cssalaska.org/our-programs/clare-house/",
+    "categorySlug": "housing",
+    "zipCode": "99517"
   },
   {
     "name": "Cook Inlet Tribal Council (CITC)",
@@ -90,6 +144,15 @@
     "zipCode": "99501"
   },
   {
+    "name": "Salvation Army Anchorage",
+    "description": "Provides emergency shelter for homeless families with case management, meals, and life skills development. Also offers senior home-delivered meals, utility and rental assistance, and disaster relief.",
+    "address": "143 E 9th Avenue, Anchorage, AK 99501",
+    "phone": "(907) 276-2515",
+    "url": "https://www.salvationarmyusa.org/ak/anchorage/",
+    "categorySlug": "community",
+    "zipCode": "99501"
+  },
+  {
     "name": "Southcentral Foundation – Anchorage Native Primary Care Center",
     "description": "Alaska Native-owned nonprofit health system serving nearly 70,000 Alaska Native and American Indian people, providing comprehensive primary care, behavioral health, dental, and OB/GYN services.",
     "address": "4320 Diplomacy Dr, Anchorage, AK 99508",
@@ -97,6 +160,15 @@
     "url": "https://www.southcentralfoundation.com",
     "categorySlug": "healthcare",
     "zipCode": "99508"
+  },
+  {
+    "name": "The Salvation Army – Anchorage Corps",
+    "description": "Provides emergency food assistance, shelter referrals, disaster relief, and social services including utility and rent assistance to Anchorage residents in crisis.",
+    "address": "143 E 9th Ave, Anchorage, AK 99501",
+    "phone": "907-276-2515",
+    "url": "https://anchorage.salvationarmy.org/anchorage_corps/",
+    "categorySlug": "community",
+    "zipCode": "99501"
   },
   {
     "name": "The Salvation Army – Anchorage Corps",
@@ -126,6 +198,24 @@
     "zipCode": "99559"
   },
   {
+    "name": "Bread Line Inc. – Stone Soup Cafe",
+    "description": "Nonprofit feeding program operating since 1984, running the Stone Soup Cafe (free daily hot meals Mon–Fri), Kids Cafe, a culinary job training program, and a community garden supplying fresh produce to at-risk individuals.",
+    "address": "507 Gaffney Rd, Fairbanks, AK 99701",
+    "phone": "(907) 452-1974",
+    "url": "https://breadlineak.org",
+    "categorySlug": "food",
+    "zipCode": "99701"
+  },
+  {
+    "name": "Chief Andrew Isaac Health Center",
+    "description": "Tribal health facility operated by Tanana Chiefs Conference serving Alaska Native and American Indian residents of Interior Alaska with primary care, behavioral health, dental, pharmacy, and specialty referral services.",
+    "address": "1717 W Cowles St, Fairbanks, AK 99701",
+    "phone": "(907) 451-6682",
+    "url": "https://www.tananachiefs.org/services/health/chief-andrew-isaac-health-center/",
+    "categorySlug": "healthcare",
+    "zipCode": "99701"
+  },
+  {
     "name": "Fairbanks Community Food Bank",
     "description": "Collects and redistributes donated food to individuals and partner agencies throughout the Fairbanks North Star Borough, serving thousands of residents annually.",
     "address": "725 26th Ave, Fairbanks, AK 99701",
@@ -135,11 +225,56 @@
     "zipCode": "99701"
   },
   {
+    "name": "Fairbanks Native Association",
+    "description": "Tribal nonprofit providing social, behavioral health, housing, elder care, and cultural services primarily for Alaska Native people in the Fairbanks area, including benefits navigation and direct assistance.",
+    "address": "319 First Ave, Fairbanks, AK 99701",
+    "phone": "(907) 452-1648",
+    "url": "https://www.fairbanksnative.org",
+    "categorySlug": "community",
+    "zipCode": "99701"
+  },
+  {
     "name": "Fairbanks Rescue Mission",
     "description": "The only 24-hour emergency shelter in Interior Alaska, providing beds, three hot meals daily, clothing, and a safe environment for men, women, and children experiencing homelessness.",
     "address": "723 27th Ave, Fairbanks, AK 99701",
     "phone": "907-452-5525",
     "url": "https://www.fairbanksrescuemission.org",
+    "categorySlug": "housing",
+    "zipCode": "99701"
+  },
+  {
+    "name": "Fairbanks Youth Advocates – The Door",
+    "description": "Youth drop-in shelter and services hub for children and teens aged 6–18, providing safe overnight shelter, home-cooked meals, clothing, school supplies, and connections to community resources.",
+    "address": "138 10th Ave, Fairbanks, AK 99701",
+    "phone": "(907) 374-5678",
+    "url": "https://fairbanksyouthadvocates.org",
+    "categorySlug": "community",
+    "zipCode": "99701"
+  },
+  {
+    "name": "Interior Alaska Center for Non-Violent Living",
+    "description": "Offers a 24-hour crisis hotline, emergency shelter, transitional and permanent supportive housing, legal advocacy, and prevention programming for survivors of domestic violence and sexual assault in Interior Alaska.",
+    "address": "726 26th Ave Ste 1, Fairbanks, AK 99701",
+    "phone": "(907) 452-2293",
+    "url": "https://iacnvl.org",
+    "categorySlug": "housing",
+    "zipCode": "99701"
+  },
+  {
+    "name": "Interior Community Health Center",
+    "description": "Federally Qualified Health Center providing comprehensive primary medical, dental, and integrated behavioral health care to all community members regardless of ability to pay, with sliding-fee discounts.",
+    "address": "1606 23rd Ave, Fairbanks, AK 99701",
+    "phone": "(907) 455-4567",
+    "url": "https://www.interiorcommunityhealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "99701"
+  },
+  {
+    "name": "Salvation Army Fairbanks Corps",
+    "description": "Provides emergency shelter, food assistance, emergency utility and rental assistance, and seasonal programs for families and individuals in crisis in the Fairbanks area.",
+    "address": "1602 10th Ave, Fairbanks, AK 99701",
+    "phone": "(907) 452-3103",
+    "url": "https://fairbanks.salvationarmy.org/fairbanks_corps/",
     "categorySlug": "housing",
     "zipCode": "99701"
   },
@@ -162,6 +297,24 @@
     "zipCode": "99701"
   },
   {
+    "name": "Salvation Army – Haines Corps",
+    "description": "Offers emergency financial assistance, food pantry, shelter referrals, and basic social services to individuals and families in Haines and the surrounding Lynn Canal communities.",
+    "address": "430 Union Street, Haines, AK 99827",
+    "phone": "(907) 766-2470",
+    "url": "https://www.salvationarmy.org/",
+    "categorySlug": "community",
+    "zipCode": "99827"
+  },
+  {
+    "name": "Bartlett Regional Hospital",
+    "description": "Full-service community hospital serving Juneau and greater Southeast Alaska, providing emergency care, inpatient and outpatient services, behavioral health, and specialty care.",
+    "address": "3260 Hospital Drive, Juneau, AK 99801",
+    "phone": "(907) 796-8900",
+    "url": "https://www.bartletthospital.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "99801"
+  },
+  {
     "name": "Gastineau Human Services",
     "description": "Nonprofit providing transitional housing, recovery programs, and reentry support for people in Juneau affected by homelessness, addiction, or incarceration; operates the Juno House transitional housing program.",
     "address": "Juneau, AK 99801",
@@ -171,12 +324,30 @@
     "zipCode": "99801"
   },
   {
+    "name": "SEARHC – Juneau Primary Care",
+    "description": "Southeast Alaska Regional Health Consortium providing comprehensive primary care, behavioral health, dental, pharmacy, and WIC services to Alaska Native and non-Native patients in Juneau.",
+    "address": "3100 Channel Drive, Suite 300, Juneau, AK 99801",
+    "phone": "(907) 463-4000",
+    "url": "https://searhc.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "99801"
+  },
+  {
     "name": "Southeast Alaska Food Bank",
     "description": "Regional food bank serving Juneau and surrounding Southeast Alaska communities, coordinating food pantry distribution and addressing food insecurity across the region.",
     "address": "10020 Crazy Horse Dr, Juneau, AK 99801",
     "phone": "907-789-6184",
     "url": "https://www.sealaskafoodbank.org",
     "categorySlug": "food",
+    "zipCode": "99801"
+  },
+  {
+    "name": "The Glory Hall Shelter and Soup Kitchen",
+    "description": "Juneau's primary emergency shelter and soup kitchen providing three meals a day and overnight shelter to individuals experiencing homelessness or crisis. Operated by Juneau Housing First Collaborative.",
+    "address": "8715 Teal Street, Juneau, AK 99801",
+    "phone": "(907) 586-4159",
+    "url": "https://housejuneau.org/",
+    "categorySlug": "housing",
     "zipCode": "99801"
   },
   {
@@ -198,6 +369,15 @@
     "zipCode": "99603"
   },
   {
+    "name": "Homer Medical Center",
+    "description": "Full-service outpatient medical clinic offering primary care, urgent care, pediatrics, OB/GYN, midwifery, and behavioral health services to southern Kenai Peninsula residents.",
+    "address": "4136 Bartlett St, Homer, AK 99603",
+    "phone": "(907) 235-8586",
+    "url": "https://www.homermedical.org",
+    "categorySlug": "healthcare",
+    "zipCode": "99603"
+  },
+  {
     "name": "Kenai Peninsula Food Bank",
     "description": "Serving the Kenai Peninsula since 1988, distributes food to over 40 nonprofit partner organizations and food pantries across the region's communities including Homer, Kenai, and Soldotna.",
     "address": "33955 Community College Dr, Soldotna, AK 99669",
@@ -205,6 +385,33 @@
     "url": "https://kpfoodbank.org",
     "categorySlug": "food",
     "zipCode": "99669"
+  },
+  {
+    "name": "Kenaitze Indian Tribe – Dena'ina Wellness Center",
+    "description": "Fully integrated tribal healthcare facility offering primary care, behavioral health, dental, pharmacy, and wellness services to tribal members and the broader Kenai Peninsula community.",
+    "address": "508 Upland St, Kenai, AK 99611",
+    "phone": "(907) 283-3633",
+    "url": "https://www.kenaitze.org",
+    "categorySlug": "healthcare",
+    "zipCode": "99611"
+  },
+  {
+    "name": "Peninsula Community Health Services of Alaska",
+    "description": "Federally Qualified Health Center offering medical, dental, behavioral health, eye care, and physical therapy on a sliding-fee scale to Kenai Peninsula residents.",
+    "address": "230 E Marydale Ave, Soldotna, AK 99669",
+    "phone": "(907) 260-7300",
+    "url": "https://www.pchsak.org",
+    "categorySlug": "healthcare",
+    "zipCode": "99669"
+  },
+  {
+    "name": "Seward Community Health Center",
+    "description": "FQHC providing primary care and behavioral health services to Seward and surrounding communities, including sliding-fee discounts for uninsured patients.",
+    "address": "417 1st Ave, Seward, AK 99664",
+    "phone": "(907) 224-2273",
+    "url": "https://www.sewardhealthcenter.org",
+    "categorySlug": "healthcare",
+    "zipCode": "99664"
   },
   {
     "name": "Ketchikan Indian Community Tribal Health Clinic",
@@ -225,12 +432,57 @@
     "zipCode": "99901"
   },
   {
+    "name": "Salvation Army Gateway Corps – Ketchikan",
+    "description": "Provides a soup kitchen, emergency food boxes, a commodities food bank, emergency financial assistance, and basic social services to individuals and families in the Ketchikan area.",
+    "address": "342 Stedman Street, Ketchikan, AK 99901",
+    "phone": "(907) 225-5277",
+    "url": "https://gatewayalaska.salvationarmy.org/gateway_corps_us_west/",
+    "categorySlug": "food",
+    "zipCode": "99901"
+  },
+  {
+    "name": "Alaska Family Services",
+    "description": "Provides a 32-bed emergency shelter for women and children fleeing domestic violence or abuse, along with transitional housing and advocacy services. The only nationally accredited DV shelter in Alaska.",
+    "address": "403 S Alaska St, Palmer, AK 99645",
+    "phone": "(800) 963-1579",
+    "url": "https://www.alaskafamilyservices.org",
+    "categorySlug": "housing",
+    "zipCode": "99645"
+  },
+  {
+    "name": "Family Promise Mat-Su",
+    "description": "Mobilizes congregations and community resources to provide shelter, meals, and case management for homeless families in the Mat-Su Valley.",
+    "address": "561 W Nelson Ave, Wasilla, AK 99654",
+    "phone": "(907) 357-6160",
+    "url": "https://www.fpm-su.com",
+    "categorySlug": "housing",
+    "zipCode": "99654"
+  },
+  {
+    "name": "Mat-Su Health Foundation",
+    "description": "Regional philanthropic organization funding community health initiatives, substance abuse prevention, and social determinants of health programs across the Mat-Su Borough.",
+    "address": "777 N Crusey St, Suite 201, Wasilla, AK 99654",
+    "phone": "",
+    "url": "https://www.healthymatsu.org",
+    "categorySlug": "community",
+    "zipCode": "99654"
+  },
+  {
     "name": "MatSu Food Bank",
     "description": "Primary food bank serving the Matanuska-Susitna Borough, distributing food to individuals and families in need across the Wasilla and Palmer area.",
     "address": "5099 E Blue Lupine Dr, Wasilla, AK 99654",
     "phone": "907-357-3769",
     "url": "https://matsufoodbank.org",
     "categorySlug": "food",
+    "zipCode": "99654"
+  },
+  {
+    "name": "MY House Mat-Su",
+    "description": "Provides emergency shelter, basic needs, and supportive services to homeless and runaway youth throughout the Mat-Su Valley.",
+    "address": "300 N Willow St, Wasilla, AK 99654",
+    "phone": "(907) 373-4357",
+    "url": "https://myhousematsu.org",
+    "categorySlug": "housing",
     "zipCode": "99654"
   },
   {
@@ -279,6 +531,15 @@
     "zipCode": "99723"
   },
   {
+    "name": "North Slope Borough Health & Social Services",
+    "description": "Borough government department providing community health services, senior meal programs (including Meals on Wheels), WIC nutrition, behavioral health, and social services to residents of the North Slope including Utqiagvik.",
+    "address": "P.O. Box 69, Utqiagvik, AK 99723",
+    "phone": "907-852-2611",
+    "url": "https://www.north-slope.org/departments/health-social-services/",
+    "categorySlug": "healthcare",
+    "zipCode": "99723"
+  },
+  {
     "name": "Maniilaq Association",
     "description": "Tribally operated health and social services organization serving 12 communities of the Northwest Arctic Borough, providing healthcare, WIC nutrition, behavioral health, and social services to Alaska Native people.",
     "address": "733 2nd Ave, Kotzebue, AK 99752",
@@ -286,6 +547,24 @@
     "url": "https://www.maniilaq.org",
     "categorySlug": "healthcare",
     "zipCode": "99752"
+  },
+  {
+    "name": "Salvation Army – Sitka Corps",
+    "description": "Provides emergency food boxes, a food pantry, emergency financial assistance, shelter referrals, and basic social services to individuals and families in need in the Sitka area.",
+    "address": "405 Sawmill Creek Road, Sitka, AK 99835",
+    "phone": "(907) 747-4519",
+    "url": "https://www.salvationarmy.org/ihq/sitka",
+    "categorySlug": "food",
+    "zipCode": "99835"
+  },
+  {
+    "name": "SEARHC Mt. Edgecumbe Medical Center",
+    "description": "SEARHC's flagship regional hospital in Sitka offering 24/7 emergency and inpatient care, primary care, specialty clinics, behavioral health, dental, and pharmacy services for Southeast Alaska.",
+    "address": "222 Tongass Drive, Sitka, AK 99835",
+    "phone": "(907) 966-2411",
+    "url": "https://searhc.org/location/sitka-medical-center/",
+    "categorySlug": "healthcare",
+    "zipCode": "99835"
   },
   {
     "name": "Sitka Community Hospital",
@@ -297,6 +576,15 @@
     "zipCode": "99835"
   },
   {
+    "name": "Sitka Tribe of Alaska – Human Services",
+    "description": "Provides social, health, and human services to tribal members and the broader Sitka community, including behavioral health, elder services, child welfare, and housing assistance.",
+    "address": "456 Katlian Street, Sitka, AK 99835",
+    "phone": "(907) 747-3207",
+    "url": "https://sitkatribe.org/",
+    "categorySlug": "community",
+    "zipCode": "99835"
+  },
+  {
     "name": "The Salvation Army – Sitka Corps",
     "description": "Provides a daily soup kitchen, food pantry, emergency shelter assistance, and social services to individuals and families in need in Sitka.",
     "address": "405 Sawmill Creek Rd, Sitka, AK 99835",
@@ -304,5 +592,23 @@
     "url": "https://sitka.salvationarmy.org",
     "categorySlug": "food",
     "zipCode": "99835"
+  },
+  {
+    "name": "Alaska Island Community Services – Wrangell",
+    "description": "SEARHC-affiliated Federally Qualified Health Center in Wrangell providing primary care, pharmacy, behavioral health, dental, senior services, and developmental disability services to the Wrangell community.",
+    "address": "Wrangell, AK 99929",
+    "phone": "(907) 874-5000",
+    "url": "http://www.akics.org/",
+    "categorySlug": "healthcare",
+    "zipCode": "99929"
+  },
+  {
+    "name": "Salvation Army – Wrangell",
+    "description": "Provides food distribution, emergency financial assistance, shelter referrals, and community recreation and education programs to residents of Wrangell and surrounding areas.",
+    "address": "611 Zimovia Highway, Wrangell, AK 99929",
+    "phone": "(907) 874-3753",
+    "url": "https://www.salvationarmy.org/ihq/wrangell",
+    "categorySlug": "food",
+    "zipCode": "99929"
   }
 ]
