@@ -1,0 +1,290 @@
+[
+  {
+    "name": "Fisher's Peak Soup Kitchen",
+    "description": "Provides free lunch meals and food basket distribution Monday, Wednesday, and Friday to individuals experiencing hunger in Trinidad and Las Animas County.",
+    "address": "308 W Church St, Trinidad, CO 81082",
+    "phone": "719-680-0427",
+    "url": "https://www.foodpantries.org/li/fishers-peak-soup-kitchen",
+    "categorySlug": "food",
+    "zipCode": "81082"
+  },
+  {
+    "name": "Food Share of Lincoln County",
+    "description": "Community food pantry network serving all of Lincoln County with monthly distributions, providing food to residents in Hugo and surrounding communities.",
+    "address": "Hugo, CO 80821",
+    "phone": "719-768-3206",
+    "url": "https://foodsharelc.org",
+    "categorySlug": "food",
+    "zipCode": "80821"
+  },
+  {
+    "name": "Cooperating Ministry of Logan County",
+    "description": "Nonprofit founded in 1981 serving Sterling and Logan County with a client-choice food pantry, emergency food assistance, and shelter referral services.",
+    "address": "230 N 10th Ave, Sterling, CO 80751",
+    "phone": "970-522-6405",
+    "url": "https://www.coopminlc.com",
+    "categorySlug": "food",
+    "zipCode": "80751"
+  },
+  {
+    "name": "Community Food Bank of Grand Junction",
+    "description": "Client-choice food pantry serving Mesa County residents up to 24 times per year, offering a range of shelf-stable and fresh food items by appointment.",
+    "address": "476 28 1/2 Rd, Grand Junction, CO 81501",
+    "phone": "970-640-0336",
+    "url": "https://www.foodbankgj.org",
+    "categorySlug": "food",
+    "zipCode": "81501"
+  },
+  {
+    "name": "Five Loaves & Two Fishes Food Pantry",
+    "description": "Community food pantry open the 3rd Saturday of each month, serving Fruita and western Mesa County residents with free groceries.",
+    "address": "1173 17 1/2 Rd, Fruita, CO 81521",
+    "phone": "",
+    "url": "https://www.foodpantries.org/ci/co-fruita",
+    "categorySlug": "food",
+    "zipCode": "81521"
+  },
+  {
+    "name": "Grand Valley Catholic Outreach",
+    "description": "Provides emergency food, clothing, financial aid, and shelter services including a Day Center with showers, laundry, and medical care for people experiencing homelessness.",
+    "address": "245 S 1st St, Grand Junction, CO 81501",
+    "phone": "970-241-3658",
+    "url": "https://www.catholicoutreach.org",
+    "categorySlug": "community",
+    "zipCode": "81501"
+  },
+  {
+    "name": "HomewardBound of the Grand Valley",
+    "description": "Provides the only year-round homeless shelters between Denver and Salt Lake City, serving single adults, families, veterans, and people with disabilities.",
+    "address": "2853 N Ave, Grand Junction, CO 81501",
+    "phone": "970-256-9424",
+    "url": "https://homewardboundgv.org",
+    "categorySlug": "housing",
+    "zipCode": "81501"
+  },
+  {
+    "name": "Axis Health System – Cortez Integrated Healthcare",
+    "description": "Community Health Center providing integrated primary care, dental, pharmacy, mental health, and behavioral health services to residents of Montezuma and surrounding counties.",
+    "address": "691 E Empire St, Cortez, CO 81321",
+    "phone": "970-565-7946",
+    "url": "https://www.axishealthsystem.org/locations/cortez/cortez-integrated-healthcare/",
+    "categorySlug": "healthcare",
+    "zipCode": "81321"
+  },
+  {
+    "name": "Good Samaritan Center Food Pantry",
+    "description": "Nonprofit community food pantry in Cortez offering market-style shopping for supplemental groceries including fresh produce, dairy, eggs, and shelf-stable items.",
+    "address": "30-C N Beech St, Cortez, CO 81321",
+    "phone": "970-565-6424",
+    "url": "https://www.goodsamscortez.org",
+    "categorySlug": "food",
+    "zipCode": "81321"
+  },
+  {
+    "name": "Angels for the Needy – Olathe Food Bank",
+    "description": "Small community food bank serving Olathe and surrounding Montrose County areas, providing food assistance by appointment to those in need.",
+    "address": "Olathe, CO 81425",
+    "phone": "970-275-0761",
+    "url": "https://www.montrosecounty.net/1281/Community-Food-Resources",
+    "categorySlug": "food",
+    "zipCode": "81425"
+  },
+  {
+    "name": "Sharing Ministries Food Bank",
+    "description": "Distributes food at no cost to those in need in Montrose, Delta, Gunnison, Ouray, and San Miguel counties, open Monday–Friday mornings.",
+    "address": "49 N 1st St, Montrose, CO 81401",
+    "phone": "970-240-8385",
+    "url": "https://sharingministries.com",
+    "categorySlug": "food",
+    "zipCode": "81401"
+  },
+  {
+    "name": "The Shepherd's Hand",
+    "description": "Christian nonprofit in Montrose offering meals, clothing, showers, laundry, employment guidance, and shelter referrals to individuals experiencing homelessness or economic hardship.",
+    "address": "505 S 2nd St, Montrose, CO 81401",
+    "phone": "970-275-7215",
+    "url": "https://shepherdshandmontrose.org",
+    "categorySlug": "community",
+    "zipCode": "81401"
+  },
+  {
+    "name": "Rising Up – Morgan County",
+    "description": "Nonprofit fighting homelessness, hunger, and poverty in Morgan County through a client-choice food pantry, winter warming shelter, and day center services.",
+    "address": "527 State St, Fort Morgan, CO 80701",
+    "phone": "970-370-8880",
+    "url": "https://www.risingupmorgancounty.com",
+    "categorySlug": "community",
+    "zipCode": "80701"
+  },
+  {
+    "name": "Ouray County Food Pantry",
+    "description": "Nonprofit food pantry serving Ouray County residents in a market-style environment every Thursday, providing shelf-stable items, fresh produce, dairy, and eggs.",
+    "address": "257 Sherman St, Ridgway, CO 81432",
+    "phone": "970-626-4273",
+    "url": "https://www.ouraycountyfoodpantry.org",
+    "categorySlug": "food",
+    "zipCode": "81432"
+  },
+  {
+    "name": "South Park Food Bank",
+    "description": "Community food bank serving Park County residents (Fairplay, Como, Jefferson, Alma, Hartsel) with monthly distributions and weekend food totes for local schoolchildren.",
+    "address": "501 Main St, Fairplay, CO 80440",
+    "phone": "719-836-2222",
+    "url": "https://southparkfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "80440"
+  },
+  {
+    "name": "Haxtun Food Bank",
+    "description": "Local food pantry serving Phillips County residents in Haxtun with regular food distributions to address food insecurity in the rural northeastern Colorado community.",
+    "address": "415 E Strohm St, Haxtun, CO 80731",
+    "phone": "970-520-6980",
+    "url": "https://www.foodbankrockies.org/hunger-in-colorado/phillips-county/",
+    "categorySlug": "food",
+    "zipCode": "80731"
+  },
+  {
+    "name": "Phillips County Department of Human Services",
+    "description": "County human services office in Holyoke providing SNAP food assistance applications, emergency food referrals, and other social safety net programs for Phillips County residents.",
+    "address": "127 E Denver St, Holyoke, CO 80734",
+    "phone": "970-854-2280",
+    "url": "https://phillipscounty.colorado.gov/departments/human-services/snap/food-assistance",
+    "categorySlug": "community",
+    "zipCode": "80734"
+  },
+  {
+    "name": "Ecumenical Church of Pueblo West Food Pantry",
+    "description": "Operates a drive-thru food pantry open Tuesdays and Thursdays, providing pre-packed boxes of nonperishables plus meat, bread, and eggs to Pueblo West residents.",
+    "address": "434 S Conquistador Ave, Pueblo West, CO 81007",
+    "phone": "719-547-3088",
+    "url": "https://www.ecopw.org/food-for-body-and-soul-ministry",
+    "categorySlug": "food",
+    "zipCode": "81007"
+  },
+  {
+    "name": "Posada of Pueblo",
+    "description": "Provides emergency shelter and supportive services to homeless individuals and families in Pueblo County, with programs focused on transitional housing and self-sufficiency.",
+    "address": "111 N Union Ave, Pueblo, CO 81003",
+    "phone": "719-545-8776",
+    "url": "https://posadapueblo.org",
+    "categorySlug": "housing",
+    "zipCode": "81003"
+  },
+  {
+    "name": "Pueblo Community Health Center",
+    "description": "Federally Qualified Health Center (FQHC) providing primary care, dental, and behavioral health services on a sliding-fee scale to all patients regardless of ability to pay.",
+    "address": "110 E Routt Ave, Pueblo, CO 81004",
+    "phone": "719-543-8711",
+    "url": "https://www.pueblochc.org",
+    "categorySlug": "healthcare",
+    "zipCode": "81004"
+  },
+  {
+    "name": "Pueblo Cooperative Care Center",
+    "description": "The largest non-profit emergency assistance program in southern Colorado, providing emergency food, clothing, hygiene items, prescription assistance, and diabetic vouchers.",
+    "address": "326 W 8th St, Pueblo, CO 81003",
+    "phone": "719-543-7484",
+    "url": "https://cooperativecare.org",
+    "categorySlug": "food",
+    "zipCode": "81003"
+  },
+  {
+    "name": "Salvation Army Pueblo Corps",
+    "description": "Provides food box distribution to Pueblo residents in need, with distributions on Tuesdays, Wednesdays, and Thursdays from 10am–noon.",
+    "address": "401 S Prairie Ave, Pueblo, CO 81005",
+    "phone": "719-543-3656",
+    "url": "https://pueblo.salvationarmy.org/pueblo_corps/",
+    "categorySlug": "food",
+    "zipCode": "81005"
+  },
+  {
+    "name": "Rio Blanco County Human Resource Council – Rangely Food Pantry",
+    "description": "Community resource pantry in Rangely serving Rio Blanco County residents with food assistance, supplemented by a monthly Food Bank of the Rockies mobile pantry.",
+    "address": "743 E Main St, Rangely, CO 81648",
+    "phone": "970-675-9531",
+    "url": "https://www.rbc.us/290/Food-Assistance-Programs",
+    "categorySlug": "food",
+    "zipCode": "81648"
+  },
+  {
+    "name": "LiftUp of Routt County",
+    "description": "Nonprofit serving Routt County since 1996 with food banks, emergency financial assistance for housing and utilities, children's snack programs, and educational scholarships.",
+    "address": "2125 Curve Ct, Steamboat Springs, CO 80487",
+    "phone": "970-870-0727",
+    "url": "https://liftuprc.org",
+    "categorySlug": "community",
+    "zipCode": "80487"
+  },
+  {
+    "name": "Saguache County Emergency Food Program",
+    "description": "County-operated emergency food distribution program providing food pantry services to Saguache County residents from the Public Health building.",
+    "address": "220 S Worth St, Center, CO 81125",
+    "phone": "719-655-2537",
+    "url": "https://saguachecounty.colorado.gov/emergency-food-program",
+    "categorySlug": "food",
+    "zipCode": "81125"
+  },
+  {
+    "name": "Dillon Community Church Food Pantry",
+    "description": "Food pantry in Dillon serving Summit County residents three days per week with free groceries, open to all in need without income requirements.",
+    "address": "371 La Bonte St, Dillon, CO 80435",
+    "phone": "",
+    "url": "https://summitfirc.org/community-food-markets/",
+    "categorySlug": "food",
+    "zipCode": "80435"
+  },
+  {
+    "name": "Father Dyer United Methodist Church Food Pantry",
+    "description": "Food pantry in Breckenridge open Tuesdays and Thursdays, serving individuals and families in need without regard to race, religion, or financial status.",
+    "address": "310 Wellington Rd, Breckenridge, CO 80424",
+    "phone": "",
+    "url": "https://www.fatherdyer.com/foodpantry",
+    "categorySlug": "food",
+    "zipCode": "80424"
+  },
+  {
+    "name": "FIRC – Summit County Resource Center",
+    "description": "Family and Intercultural Resource Center serving Summit County with community food markets, emergency financial assistance, immigration services, and social support programs.",
+    "address": "251 W 4th St, Silverthorne, CO 80498",
+    "phone": "970-262-3888",
+    "url": "https://summitfirc.org",
+    "categorySlug": "community",
+    "zipCode": "80498"
+  },
+  {
+    "name": "Woodland Park Community Cupboard",
+    "description": "Provides 5–7 day emergency food supplies including meat, dairy, produce, and canned goods to residents of Teller County and the Ute Pass region since 1978.",
+    "address": "414 N Highway 67, Woodland Park, CO 80863",
+    "phone": "719-687-3663",
+    "url": "https://wpcommunitycupboard.com",
+    "categorySlug": "food",
+    "zipCode": "80863"
+  },
+  {
+    "name": "Catholic Charities – Guadalupe Community Shelter",
+    "description": "The only shelter in Weld County serving both single adults and families experiencing homelessness, providing emergency housing and support services.",
+    "address": "1442 N 11th Ave, Greeley, CO 80631",
+    "phone": "970-353-6433",
+    "url": "https://ccdenver.org/greeley/",
+    "categorySlug": "housing",
+    "zipCode": "80631"
+  },
+  {
+    "name": "Fort Lupton Food Pantry",
+    "description": "Community food pantry operating five days a week in Fort Lupton, serving residents of south Weld County with free food assistance.",
+    "address": "421 Denver Ave, Fort Lupton, CO 80621",
+    "phone": "303-857-1096",
+    "url": "https://weldfoodbank.org/find-food-right-now/",
+    "categorySlug": "food",
+    "zipCode": "80621"
+  },
+  {
+    "name": "Weld Food Bank",
+    "description": "Feeding America member food bank serving Weld County since 1982, distributing fresh and nutritious food through a network of 72 partner agencies and programs.",
+    "address": "1108 H St, Greeley, CO 80631",
+    "phone": "970-356-2199",
+    "url": "https://weldfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "80631"
+  }
+]
