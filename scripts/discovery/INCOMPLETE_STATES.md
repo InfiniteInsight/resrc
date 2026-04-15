@@ -764,8 +764,12 @@ States with unsearched zip code batches. Each entry lists the exact batches, cou
 
 **65/65 batches searched · 0 remaining**
 
+## Completed: MO (124 resources · 66 batches)
+
+**66/66 batches searched · 0 remaining**
+
 ## Not Started (no batch config)
 
-MO, OH
+OH
 
 These states need batch config files created before scanning can begin.
