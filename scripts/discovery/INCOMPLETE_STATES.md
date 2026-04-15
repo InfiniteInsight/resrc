@@ -399,7 +399,7 @@ States with unsearched zip code batches. Each entry lists the exact batches, cou
   - Cities: Alvaton, Colbert, Comer, Danielsville, Darien, Dearing, Hull, Juniper, Mauk, Meridian, Sapelo Island, Stovall, Tazewell, Thomson, Townsend
   - Zips: 30628, 30629, 30633, 30646, 31058, 31801, 31803, 30808, 30824, 31305, 31319, 31327, 31331, 30218, 30222
 
-## ID — Idaho
+## ID — Idaho ✓ COMPLETE
 **1/19 batches searched · 18 remaining**
 
 - **Batch 002** | Counties: Adams, Bannock, Bear Lake
@@ -457,7 +457,7 @@ States with unsearched zip code batches. Each entry lists the exact batches, cou
   - Cities: Midvale, Weiser
   - Zips: 83645, 83672
 
-## MT — Montana
+## MT — Montana ✓ COMPLETE
 **1/24 batches searched · 23 remaining**
 
 - **Batch 002** | Counties: Big Horn, Blaine, Broadwater, Carbon
@@ -530,7 +530,7 @@ States with unsearched zip code batches. Each entry lists the exact batches, cou
   - Cities: Billings, Billings Heights
   - Zips: 59102, 59105, 59106
 
-## NM — New Mexico
+## NM — New Mexico ✓ COMPLETE
 **1/24 batches searched · 23 remaining**
 
 - **Batch 002** | Counties: Bernalillo, Catron, Chaves

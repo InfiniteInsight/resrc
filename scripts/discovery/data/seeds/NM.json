@@ -1,5 +1,14 @@
 [
   {
+    "name": "Albuquerque Healthcare for the Homeless",
+    "description": "Street medicine and shelter-based healthcare program serving homeless individuals in Albuquerque with primary care, mental health, and substance use treatment.",
+    "address": "1217 1st St NW, Albuquerque, NM 87102",
+    "phone": "(505) 767-4900",
+    "url": "https://www.ahch.org",
+    "categorySlug": "healthcare",
+    "zipCode": "87102"
+  },
+  {
     "name": "Catholic Charities New Mexico (CCASFNM)",
     "description": "Provides emergency housing, food assistance, immigration services, and social services to individuals and families in need throughout New Mexico, including an Albuquerque Opportunity Center for homeless men.",
     "address": "2010 Bridge Blvd SW, Albuquerque, NM 87105",
@@ -9,6 +18,24 @@
     "zipCode": "87105"
   },
   {
+    "name": "First Choice Community Healthcare – Albuquerque",
+    "description": "Federally Qualified Health Center with multiple Albuquerque locations providing primary care, dental, behavioral health, and pharmacy services on a sliding-fee scale.",
+    "address": "4801 Central Ave NE, Albuquerque, NM 87108",
+    "phone": "(505) 244-6210",
+    "url": "https://www.fcch.com",
+    "categorySlug": "healthcare",
+    "zipCode": "87108"
+  },
+  {
+    "name": "Good Shepherd Center – Albuquerque",
+    "description": "Comprehensive homeless services center in Albuquerque providing emergency shelter, transitional housing, meals, case management, and supportive services for adults experiencing homelessness.",
+    "address": "800 Bluewater Rd NW, Albuquerque, NM 87121",
+    "phone": "(505) 831-6038",
+    "url": "https://www.goodshepherdcenter.com",
+    "categorySlug": "housing",
+    "zipCode": "87121"
+  },
+  {
     "name": "Joy Junction Emergency Shelter",
     "description": "New Mexico's largest emergency homeless shelter, providing food, clothing, shelter, and support services 24/7 to homeless men, women, children, and families.",
     "address": "4500 2nd St SW, Albuquerque, NM 87105",
@@ -16,6 +43,24 @@
     "url": "https://www.joyjunction.org",
     "categorySlug": "housing",
     "zipCode": "87105"
+  },
+  {
+    "name": "Presbyterian Medical Services – Albuquerque",
+    "description": "Federally Qualified Health Center network in New Mexico providing primary care, dental, and behavioral health on a sliding-fee scale at multiple Albuquerque-area locations.",
+    "address": "2121 Osuna Rd NE, Albuquerque, NM 87113",
+    "phone": "(505) 880-3950",
+    "url": "https://www.pmsnet.org",
+    "categorySlug": "healthcare",
+    "zipCode": "87113"
+  },
+  {
+    "name": "Roadrunner Food Bank",
+    "description": "New Mexico's largest food bank, serving Bernalillo, Sandoval, Torrance, and Valencia counties by distributing tens of millions of pounds of food annually through a network of partner agencies.",
+    "address": "5840 Office Blvd NE, Albuquerque, NM 87109",
+    "phone": "(505) 247-2052",
+    "url": "https://www.roadrunnerfoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "87109"
   },
   {
     "name": "Roadrunner Food Bank of New Mexico",
@@ -45,6 +90,24 @@
     "zipCode": "87102"
   },
   {
+    "name": "United Way of North Central NM – Emergency Food & Shelter Program",
+    "description": "Administers federal Emergency Food and Shelter Program funding for Bernalillo, Sandoval, Santa Fe, Torrance, and Valencia counties to support local food and shelter nonprofits.",
+    "address": "Albuquerque, NM 87102",
+    "phone": "",
+    "url": "https://uwncnm.org/efsp/",
+    "categorySlug": "community",
+    "zipCode": "87102"
+  },
+  {
+    "name": "Chaves County Indigent Health Fund",
+    "description": "County-administered healthcare assistance program in Roswell providing medical and pharmacy assistance to low-income uninsured Chaves County residents who do not qualify for Medicaid.",
+    "address": "400 N Virginia Ave, Roswell, NM 88201",
+    "phone": "(575) 624-6600",
+    "url": "https://www.chavescounty.net/health",
+    "categorySlug": "healthcare",
+    "zipCode": "88201"
+  },
+  {
     "name": "Harvest Ministries of Roswell",
     "description": "Provides emergency food for individuals and families in the Roswell area, supports 14 regional agencies with food assistance, and offers shower and laundry facilities for homeless individuals.",
     "address": "601 N Main St, Roswell, NM 88201",
@@ -59,6 +122,15 @@
     "address": "400 E Bland St, Roswell, NM 88201",
     "phone": "",
     "url": "https://www.roswellhomelesscoalition.com",
+    "categorySlug": "housing",
+    "zipCode": "88201"
+  },
+  {
+    "name": "Roswell Homeless Coalition",
+    "description": "Coalition of organizations providing emergency shelter, transitional housing, and wraparound services for people experiencing homelessness in Roswell and Chaves County.",
+    "address": "Roswell, NM 88201",
+    "phone": "(575) 627-6023",
+    "url": "https://www.roswellhomelesscoalition.org",
     "categorySlug": "housing",
     "zipCode": "88201"
   },
@@ -90,12 +162,66 @@
     "zipCode": "88101"
   },
   {
+    "name": "Food Bank of Eastern New Mexico – Clovis",
+    "description": "Regional food bank serving eastern New Mexico counties from Clovis, distributing food to individuals and families through partner pantries, mobile distributions, and direct programs.",
+    "address": "200 E 7th St, Clovis, NM 88101",
+    "phone": "(575) 769-2338",
+    "url": "https://www.fbclovis.org",
+    "categorySlug": "food",
+    "zipCode": "88101"
+  },
+  {
+    "name": "Matthew 25 Hope Center – Clovis",
+    "description": "Faith-based emergency assistance center in Clovis providing food pantry, clothing, utility assistance, and community support services to low-income residents of Curry County.",
+    "address": "201 W 5th St, Clovis, NM 88101",
+    "phone": "(575) 742-0966",
+    "url": "https://www.matt25hopecenter.org",
+    "categorySlug": "food",
+    "zipCode": "88101"
+  },
+  {
+    "name": "Ben Archer Health Center – Las Cruces",
+    "description": "Federally Qualified Health Center with multiple locations in Doña Ana County providing primary care, dental, behavioral health, and pharmacy on a sliding-fee scale.",
+    "address": "3680 E Picacho Ave, Las Cruces, NM 88001",
+    "phone": "(575) 527-1512",
+    "url": "https://www.bahealth.org",
+    "categorySlug": "healthcare",
+    "zipCode": "88001"
+  },
+  {
+    "name": "Casa de Peregrinos – Las Cruces",
+    "description": "Primary food pantry and emergency food provider for Doña Ana County, distributing millions of pounds of food annually from a community pantry and mobile distribution sites.",
+    "address": "999 W Amador Ave, Las Cruces, NM 88005",
+    "phone": "(575) 523-5542",
+    "url": "https://www.casadeperegrinos.org",
+    "categorySlug": "food",
+    "zipCode": "88005"
+  },
+  {
     "name": "Casa de Peregrinos Emergency Food Program",
     "description": "Provides nutritional emergency food boxes to individuals and families in Doña Ana County who are unable to purchase groceries due to financial hardship, distributing Monday, Wednesday, and Friday.",
     "address": "999 W Amador Ave, Suite F, Las Cruces, NM 88005",
     "phone": "(575) 523-5542",
     "url": "https://casadeperegrinos.org",
     "categorySlug": "food",
+    "zipCode": "88005"
+  },
+  {
+    "name": "Community Action Agency of Southern New Mexico",
+    "description": "Community action agency in Las Cruces serving Doña Ana County with emergency food, utility assistance, housing programs, and other anti-poverty services for low-income residents.",
+    "address": "1320 S Solano Dr, Las Cruces, NM 88001",
+    "phone": "(575) 523-1639",
+    "url": "https://www.casnm.org",
+    "categorySlug": "community",
+    "zipCode": "88001"
+  },
+  {
+    "name": "Mesilla Valley Community of Hope",
+    "description": "Comprehensive homeless services campus in Las Cruces offering emergency shelter, transitional housing, meals, case management, and resource navigation for adults experiencing homelessness.",
+    "address": "999 W Amador Ave, Las Cruces, NM 88005",
+    "phone": "(575) 523-6815",
+    "url": "https://www.mvch.net",
+    "categorySlug": "housing",
     "zipCode": "88005"
   },
   {
@@ -135,6 +261,15 @@
     "zipCode": "88061"
   },
   {
+    "name": "SPIN – Silver City",
+    "description": "Homeless services and transitional housing organization in Silver City providing emergency shelter, permanent supportive housing, and wraparound services for unhoused individuals in Grant County.",
+    "address": "Silver City, NM 88061",
+    "phone": "(575) 388-3553",
+    "url": "https://www.spinnm.org",
+    "categorySlug": "housing",
+    "zipCode": "88061"
+  },
+  {
     "name": "The Commons – Hunger Relief & Community Support",
     "description": "Provides free food pantry services, nutritious community meals, and hunger relief programs including weekend backpack program and community gardens in Grant County.",
     "address": "Silver City, NM 88061",
@@ -142,6 +277,33 @@
     "url": "https://thecommonsgrantcounty.org",
     "categorySlug": "food",
     "zipCode": "88061"
+  },
+  {
+    "name": "The Commons – Silver City",
+    "description": "Comprehensive social services hub in Silver City providing emergency food, homeless shelter, domestic violence services, and case management to Grant County and southwest New Mexico residents.",
+    "address": "714 N Bullard St, Silver City, NM 88061",
+    "phone": "(575) 534-0672",
+    "url": "https://www.thecommonssilvercity.org",
+    "categorySlug": "community",
+    "zipCode": "88061"
+  },
+  {
+    "name": "Family Health Center of Lea County",
+    "description": "Federally Qualified Health Center in Hobbs providing primary care, dental, behavioral health, and pharmacy services on a sliding-fee scale to Lea County residents.",
+    "address": "2301 N Dal Paso St, Hobbs, NM 88240",
+    "phone": "(575) 492-1200",
+    "url": "https://www.familyhealthcenterleacounty.org",
+    "categorySlug": "healthcare",
+    "zipCode": "88240"
+  },
+  {
+    "name": "Salvation Army Food Bank (Hobbs)",
+    "description": "Provides nutritious food to hungry seniors, children, individuals, and families in Lea County, including home delivery to at-risk seniors.",
+    "address": "520 E Main St, Hobbs, NM 88240",
+    "phone": "(575) 393-9580",
+    "url": "https://www.salvationarmyusa.org/usn/hobbs/",
+    "categorySlug": "food",
+    "zipCode": "88240"
   },
   {
     "name": "Salvation Army Food Bank (Hobbs)",
@@ -162,6 +324,33 @@
     "zipCode": "88030"
   },
   {
+    "name": "Battered Families Services – Gallup",
+    "description": "Domestic violence organization in Gallup providing emergency shelter, transitional housing, legal advocacy, and support services for survivors in McKinley County and Navajo Nation communities.",
+    "address": "Gallup, NM 87301",
+    "phone": "(505) 722-3966",
+    "url": "https://www.bfshelter.org",
+    "categorySlug": "housing",
+    "zipCode": "87301"
+  },
+  {
+    "name": "CARE 66 – Gallup",
+    "description": "Comprehensive social services center in Gallup providing emergency shelter, food assistance, and wraparound support for homeless and housing-unstable residents of McKinley County.",
+    "address": "200 E Route 66, Gallup, NM 87301",
+    "phone": "(505) 863-4456",
+    "url": "https://www.care66.org",
+    "categorySlug": "housing",
+    "zipCode": "87301"
+  },
+  {
+    "name": "Community Pantry – Gallup",
+    "description": "Primary food pantry serving Gallup and McKinley County, providing free weekly grocery distributions to low-income individuals and families in the region.",
+    "address": "100 W Wilson Ave, Gallup, NM 87301",
+    "phone": "(505) 863-4497",
+    "url": "https://www.gallupcommunityministries.org",
+    "categorySlug": "food",
+    "zipCode": "87301"
+  },
+  {
     "name": "The Community Pantry (Gallup)",
     "description": "Acquires, stores, and distributes wholesome food to children, the elderly, and families in need throughout McKinley and Cibola counties, serving over 3,500 families twice a month.",
     "address": "107 S Dean St, Gallup, NM 87301",
@@ -169,6 +358,24 @@
     "url": "https://thecommunitypantry.org",
     "categorySlug": "food",
     "zipCode": "87301"
+  },
+  {
+    "name": "Otero County Community Action Agency (HCAP)",
+    "description": "Community action agency serving Otero County with emergency food, utility assistance, housing programs, and social services for low-income residents of Alamogordo and surrounding communities.",
+    "address": "104 Scenic Dr, Alamogordo, NM 88310",
+    "phone": "(575) 437-5600",
+    "url": "https://www.oterocap.org",
+    "categorySlug": "community",
+    "zipCode": "88310"
+  },
+  {
+    "name": "Otero County Hunger Coalition",
+    "description": "Food assistance coalition in Alamogordo coordinating food pantry distributions and emergency food services for low-income residents of Otero County.",
+    "address": "Alamogordo, NM 88310",
+    "phone": "(575) 437-5390",
+    "url": "https://www.oterocountyhunger.org",
+    "categorySlug": "food",
+    "zipCode": "88310"
   },
   {
     "name": "Otero Hunger Coalition",
@@ -207,6 +414,15 @@
     "zipCode": "87532"
   },
   {
+    "name": "Presbyterian Medical Services – Española Family Wellness Center",
+    "description": "Federally Qualified Health Center providing comprehensive primary care, dental, and behavioral health services to residents of Española and northern New Mexico.",
+    "address": "Española, NM 87532",
+    "phone": "",
+    "url": "https://www.pmsnm.org/locations/espanola-family-wellness-center/",
+    "categorySlug": "healthcare",
+    "zipCode": "87532"
+  },
+  {
     "name": "The Food Depot – Casita de Comida (Española)",
     "description": "A no-cost grocery market experience serving residents of Española and the greater Rio Arriba area, where shoppers can choose from shelf-stable foods, frozen items, and fresh produce.",
     "address": "Española, NM 87532",
@@ -214,6 +430,24 @@
     "url": "https://thefooddepot.org",
     "categorySlug": "food",
     "zipCode": "87532"
+  },
+  {
+    "name": "Catholic Charities – San Juan County",
+    "description": "Catholic Charities regional office in Farmington providing emergency food, immigration services, utility assistance, and social support to residents of the Four Corners region.",
+    "address": "201 E La Plata St, Farmington, NM 87401",
+    "phone": "(505) 327-5813",
+    "url": "https://www.ccasfnm.org/san-juan",
+    "categorySlug": "community",
+    "zipCode": "87401"
+  },
+  {
+    "name": "ECHO Food Bank – Farmington",
+    "description": "Primary food bank serving San Juan County from Farmington, distributing food through a community pantry, mobile sites, and partner agencies across the Four Corners region.",
+    "address": "100 W Apache St, Farmington, NM 87401",
+    "phone": "(505) 327-2865",
+    "url": "https://www.echofoodbank.org",
+    "categorySlug": "food",
+    "zipCode": "87401"
   },
   {
     "name": "ECHO Food Bank (Economic Council Helping Others)",
@@ -225,13 +459,34 @@
     "zipCode": "87401"
   },
   {
+    "name": "PATH – Farmington",
+    "description": "Homeless services and transitional housing organization in Farmington providing emergency shelter, permanent supportive housing, and case management for unhoused San Juan County residents.",
+    "address": "Farmington, NM 87401",
+    "phone": "(505) 325-7284",
+    "url": "https://www.pathnm.org",
+    "categorySlug": "housing",
+    "zipCode": "87401"
+  },
+  {
+    "name": "San Juan Regional Medical Center – Community Health",
+    "description": "Regional hospital in Farmington providing charity care programs and community health services for uninsured and underinsured San Juan County residents in the Four Corners area.",
+    "address": "801 W Maple St, Farmington, NM 87401",
+    "phone": "(505) 609-2000",
+    "url": "https://www.sanjuanregional.com",
+    "categorySlug": "healthcare",
+    "zipCode": "87401"
+  },
+  {
     "name": "The Salvation Army Farmington",
     "description": "Provides food, clothing, emergency shelter, and social services to individuals and families in need in the Farmington and San Juan County area.",
     "address": "319 W Broadway, Farmington, NM 87401",
     "phone": "(505) 327-5117",
     "url": "https://www.salvationarmyusa.org",
     "categorySlug": "food",
-    "zipCode": "87401"
+    "zipCode": "59501",
+    "additionalZipCodes": [
+      "87401"
+    ]
   },
   {
     "name": "Samaritan House (Las Vegas NM)",
@@ -243,6 +498,24 @@
     "zipCode": "87701"
   },
   {
+    "name": "Sandoval County Human Services",
+    "description": "County health and human services providing emergency assistance, behavioral health, and community support programs for low-income residents of Rio Rancho and Sandoval County.",
+    "address": "1500 Idalia Rd, Bernalillo, NM 87004",
+    "phone": "(505) 867-7500",
+    "url": "https://www.sandovalcountynm.gov/human-services",
+    "categorySlug": "community",
+    "zipCode": "87004"
+  },
+  {
+    "name": "Storehouse West – Rio Rancho",
+    "description": "Food pantry and emergency assistance center in Rio Rancho serving Sandoval County residents with free food distributions, clothing, and emergency support services.",
+    "address": "4801 Barbara Loop SE, Rio Rancho, NM 87124",
+    "phone": "(505) 896-9700",
+    "url": "https://www.storehousewest.org",
+    "categorySlug": "food",
+    "zipCode": "87124"
+  },
+  {
     "name": "Bienvenidos Food Pantry (Santa Fe)",
     "description": "Food pantry providing emergency groceries and food assistance to individuals and families in the Santa Fe area.",
     "address": "1511 5th St, Santa Fe, NM 87505",
@@ -250,6 +523,15 @@
     "url": "https://bienvenidosfoodpantry.org",
     "categorySlug": "food",
     "zipCode": "87505"
+  },
+  {
+    "name": "Interfaith Community Shelter – Pete's Place",
+    "description": "Emergency shelter in Santa Fe for adults experiencing homelessness, providing overnight housing, meals, showers, and resource navigation to help residents achieve stability.",
+    "address": "2nd St, Santa Fe, NM 87501",
+    "phone": "(505) 424-6715",
+    "url": "https://www.ifshelter.org",
+    "categorySlug": "housing",
+    "zipCode": "87501"
   },
   {
     "name": "La Familia Medical Center",
@@ -261,6 +543,24 @@
     "zipCode": "87501"
   },
   {
+    "name": "La Familia Medical Center",
+    "description": "Federally Qualified Health Center in Santa Fe serving low-income and uninsured residents with primary care, dental, behavioral health, and pharmacy on a sliding-fee scale.",
+    "address": "1035 Alto St, Santa Fe, NM 87501",
+    "phone": "(505) 982-4425",
+    "url": "https://www.lafamiliamedical.org",
+    "categorySlug": "healthcare",
+    "zipCode": "87501"
+  },
+  {
+    "name": "St. Elizabeth Shelter – Santa Fe",
+    "description": "Emergency homeless shelter in Santa Fe providing nightly lodging, meals, case management, and supportive services for adults experiencing homelessness in Santa Fe County.",
+    "address": "804 Alarid St, Santa Fe, NM 87505",
+    "phone": "(505) 982-6611",
+    "url": "https://www.saintelizabethshelter.org",
+    "categorySlug": "housing",
+    "zipCode": "87505"
+  },
+  {
     "name": "Matthew 25 Food Pantry",
     "description": "Provides free food assistance to Sierra County residents living at or below the federal poverty level, distributing food every Thursday in Truth or Consequences.",
     "address": "405 Austin Ave, Truth or Consequences, NM 87901",
@@ -268,6 +568,15 @@
     "url": "https://sharenm.org/matthew-25-food-pantry",
     "categorySlug": "food",
     "zipCode": "87901"
+  },
+  {
+    "name": "Puerto Seguro – Safe Harbor",
+    "description": "Emergency shelter and transitional housing in Socorro providing safe housing and case management for individuals and families experiencing homelessness in Socorro County.",
+    "address": "Socorro, NM 87801",
+    "phone": "(575) 838-0303",
+    "url": "https://www.puertoseguronm.org",
+    "categorySlug": "housing",
+    "zipCode": "87801"
   },
   {
     "name": "Socorro Storehouse",
@@ -279,6 +588,24 @@
     "zipCode": "87801"
   },
   {
+    "name": "El Centro Family Health – Taos",
+    "description": "Federally Qualified Health Center with locations across north-central New Mexico, providing primary care, dental, and behavioral health services on a sliding-fee scale in Taos County.",
+    "address": "136 Paseo del Pueblo Norte, Taos, NM 87571",
+    "phone": "(575) 758-8989",
+    "url": "https://www.ecfh.org",
+    "categorySlug": "healthcare",
+    "zipCode": "87571"
+  },
+  {
+    "name": "HEART of Taos",
+    "description": "Emergency shelter and transitional housing program in Taos providing overnight lodging, meals, and case management for individuals experiencing homelessness in Taos County.",
+    "address": "Taos, NM 87571",
+    "phone": "(575) 613-0090",
+    "url": "https://www.heartoftaos.org",
+    "categorySlug": "housing",
+    "zipCode": "87571"
+  },
+  {
     "name": "Bethel Community Storehouse",
     "description": "Provides food, clothing, and household assistance to Moriarty, surrounding East Mountain communities, and the Estancia Valley region in Torrance County.",
     "address": "1719 4th St, Moriarty, NM 87035",
@@ -286,6 +613,15 @@
     "url": "https://sharenm.org/bethel-community-storehouse",
     "categorySlug": "food",
     "zipCode": "87035"
+  },
+  {
+    "name": "Belen Area Food Pantry",
+    "description": "Provides emergency food assistance to residents of the Belen school district in Valencia County, distributing groceries twice weekly on Tuesdays and Thursdays.",
+    "address": "Belen, NM 87002",
+    "phone": "(505) 861-0887",
+    "url": "https://www.facebook.com/belenfoodpantry/",
+    "categorySlug": "food",
+    "zipCode": "87002"
   },
   {
     "name": "Belen Area Food Pantry",
