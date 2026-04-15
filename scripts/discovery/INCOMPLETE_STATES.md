@@ -56,8 +56,8 @@ States with unsearched zip code batches. Each entry lists the exact batches, cou
   - Cities: Chalkyitsik
   - Zips: 99788
 
-## AZ — Arizona
-**2/25 batches searched · 23 remaining**
+## AZ — Arizona ✓ COMPLETE
+**25/25 batches searched · 0 remaining**
 
 - **Batch 002** | Counties: Apache, Cochise
   - Cities: , Benson, Blue Gap, Dennehotso, Lupton, Many Farms, Nazlini, Red Valley, Rock Point, Round Rock, Saint Michaels, Sanders, Sawmill, Tsaile, Window Rock
@@ -129,8 +129,8 @@ States with unsearched zip code batches. Each entry lists the exact batches, cou
   - Cities: Yuma
   - Zips: 85367
 
-## CA — California
-**15/64 batches searched · 49 remaining**
+## CA — California ✓ COMPLETE
+**64/64 batches searched · 0 remaining**
 
 - **Batch 002** | Counties: Fresno
   - Cities: Friant, Helm, Hume, Kerman, Kingsburg, Lakeshore, Mendota, Miramonte, Orange Cove, Parlier, Pinedale, Prather, Raisin, Reedley, Riverdale
@@ -280,8 +280,8 @@ States with unsearched zip code batches. Each entry lists the exact batches, cou
   - Cities: Piru, Port Hueneme, Santa Paula, Santa Susana, Simi Valley, Somis
   - Zips: 93040, 93041, 93060, 93063, 93065, 93066
 
-## CO — Colorado
-**2/33 batches searched · 31 remaining**
+## CO — Colorado ✓ COMPLETE
+**33/33 batches searched · 0 remaining**
 
 - **Batch 002** | Counties: Adams, Alamosa, Arapahoe
   - Cities: Alamosa, Aurora, Byers, Deer Trail, Henderson, Hooper, Lochbui, Mosca
