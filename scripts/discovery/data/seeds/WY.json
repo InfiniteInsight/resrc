@@ -36,6 +36,24 @@
     "zipCode": "82716"
   },
   {
+    "name": "Salvation Army Gillette",
+    "description": "Provides food pantry services and emergency assistance programs including rent, utility, and food help to residents of Gillette and Campbell County.",
+    "address": "222 S Gillette Ave, Gillette, WY 82716",
+    "phone": "(307) 682-6982",
+    "url": "https://westernusa.salvationarmy.org/gillette/",
+    "categorySlug": "food",
+    "zipCode": "82716"
+  },
+  {
+    "name": "Care & Share Food Bank – Lander",
+    "description": "Community food pantry in Lander providing free groceries to Fremont County residents Tuesday through Thursday with extended Thursday evening hours.",
+    "address": "281 Garfield St, Lander, WY 82520",
+    "phone": "(307) 332-7364",
+    "url": "https://landerfoodbank.org/",
+    "categorySlug": "food",
+    "zipCode": "82520"
+  },
+  {
     "name": "COMEA House & Resource Center",
     "description": "Emergency homeless shelter operating since 1982 in Cheyenne, providing housing, daily meals, case management, and services for those at risk of homelessness in Laramie County.",
     "address": "1421 W Lincolnway, Cheyenne, WY 82001",
@@ -81,6 +99,24 @@
     "zipCode": "82601"
   },
   {
+    "name": "Cody Cupboard Food Pantry",
+    "description": "Non-profit food pantry in Cody providing temporary food assistance to individuals and families in need in Park County, Wyoming.",
+    "address": "602 16th St, Cody, WY 82414",
+    "phone": "(307) 586-3732",
+    "url": "https://codycupboard.com/",
+    "categorySlug": "food",
+    "zipCode": "82414"
+  },
+  {
+    "name": "People Assistance Food Bank",
+    "description": "Non-profit food pantry in Sheridan providing supplemental groceries and emergency food boxes to individuals and families in Sheridan County.",
+    "address": "2560 N Main St, Sheridan, WY 82801",
+    "phone": "(307) 674-1509",
+    "url": "https://www.sheridanpeople.org",
+    "categorySlug": "food",
+    "zipCode": "82801"
+  },
+  {
     "name": "VOA Northern Rockies – Sheridan Community Shelter",
     "description": "Emergency and transitional homeless shelter operated by Volunteers of America in Sheridan, providing safe housing and support services to those in need.",
     "address": "1898 Fort Rd, Building 24, Sheridan, WY 82801",
@@ -97,5 +133,23 @@
     "url": "http://www.foodbankswcty.org",
     "categorySlug": "food",
     "zipCode": "82901"
+  },
+  {
+    "name": "Salvation Army Rock Springs",
+    "description": "Provides emergency food, utility, prescription, and personal hygiene assistance to individuals and families in Sweetwater County.",
+    "address": "649 N Front St, Suite A, Rock Springs, WY 82901",
+    "phone": "(307) 362-6549",
+    "url": "https://www.salvationarmyusa.org/wy/",
+    "categorySlug": "community",
+    "zipCode": "82901"
+  },
+  {
+    "name": "Lord's Storehouse Food Bank – Evanston",
+    "description": "Community food bank in Evanston providing free groceries twice weekly to individuals and families in need in Uinta County.",
+    "address": "50 Yellow Creek Rd, Evanston, WY 82930",
+    "phone": "(307) 679-2628",
+    "url": "https://www.unionpres.net/the-lords-storehouse/",
+    "categorySlug": "food",
+    "zipCode": "82930"
   }
 ]
