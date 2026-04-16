@@ -4,7 +4,7 @@ States with unsearched zip code batches. Each entry lists the exact batches, cou
 
 ---
 
-## AK — Alaska
+## AK — Alaska ✓ COMPLETE
 **1/17 batches searched · 16 remaining**
 
 - **Batch 002** | Counties: Anchorage Borough, Bethel Census Area
@@ -56,8 +56,8 @@ States with unsearched zip code batches. Each entry lists the exact batches, cou
   - Cities: Chalkyitsik
   - Zips: 99788
 
-## AZ — Arizona
-**2/25 batches searched · 23 remaining**
+## AZ — Arizona ✓ COMPLETE
+**25/25 batches searched · 0 remaining**
 
 - **Batch 002** | Counties: Apache, Cochise
   - Cities: , Benson, Blue Gap, Dennehotso, Lupton, Many Farms, Nazlini, Red Valley, Rock Point, Round Rock, Saint Michaels, Sanders, Sawmill, Tsaile, Window Rock
@@ -129,8 +129,8 @@ States with unsearched zip code batches. Each entry lists the exact batches, cou
   - Cities: Yuma
   - Zips: 85367
 
-## CA — California
-**15/64 batches searched · 49 remaining**
+## CA — California ✓ COMPLETE
+**64/64 batches searched · 0 remaining**
 
 - **Batch 002** | Counties: Fresno
   - Cities: Friant, Helm, Hume, Kerman, Kingsburg, Lakeshore, Mendota, Miramonte, Orange Cove, Parlier, Pinedale, Prather, Raisin, Reedley, Riverdale
@@ -280,8 +280,8 @@ States with unsearched zip code batches. Each entry lists the exact batches, cou
   - Cities: Piru, Port Hueneme, Santa Paula, Santa Susana, Simi Valley, Somis
   - Zips: 93040, 93041, 93060, 93063, 93065, 93066
 
-## CO — Colorado
-**2/33 batches searched · 31 remaining**
+## CO — Colorado ✓ COMPLETE
+**33/33 batches searched · 0 remaining**
 
 - **Batch 002** | Counties: Adams, Alamosa, Arapahoe
   - Cities: Alamosa, Aurora, Byers, Deer Trail, Henderson, Hooper, Lochbui, Mosca
@@ -399,7 +399,7 @@ States with unsearched zip code batches. Each entry lists the exact batches, cou
   - Cities: Alvaton, Colbert, Comer, Danielsville, Darien, Dearing, Hull, Juniper, Mauk, Meridian, Sapelo Island, Stovall, Tazewell, Thomson, Townsend
   - Zips: 30628, 30629, 30633, 30646, 31058, 31801, 31803, 30808, 30824, 31305, 31319, 31327, 31331, 30218, 30222
 
-## ID — Idaho
+## ID — Idaho ✓ COMPLETE
 **1/19 batches searched · 18 remaining**
 
 - **Batch 002** | Counties: Adams, Bannock, Bear Lake
@@ -457,7 +457,7 @@ States with unsearched zip code batches. Each entry lists the exact batches, cou
   - Cities: Midvale, Weiser
   - Zips: 83645, 83672
 
-## MT — Montana
+## MT — Montana ✓ COMPLETE
 **1/24 batches searched · 23 remaining**
 
 - **Batch 002** | Counties: Big Horn, Blaine, Broadwater, Carbon
@@ -530,7 +530,7 @@ States with unsearched zip code batches. Each entry lists the exact batches, cou
   - Cities: Billings, Billings Heights
   - Zips: 59102, 59105, 59106
 
-## NM — New Mexico
+## NM — New Mexico ✓ COMPLETE
 **1/24 batches searched · 23 remaining**
 
 - **Batch 002** | Counties: Bernalillo, Catron, Chaves
@@ -603,7 +603,7 @@ States with unsearched zip code batches. Each entry lists the exact batches, cou
   - Cities: Bosque Farms, Peralta
   - Zips: 87042, 87068
 
-## UT — Utah
+## UT — Utah ✓ COMPLETE
 **1/19 batches searched · 18 remaining**
 
 - **Batch 002** | Counties: Box Elder, Cache
@@ -661,7 +661,7 @@ States with unsearched zip code batches. Each entry lists the exact batches, cou
   - Cities: Eden, Hooper, Huntsville, Ogden
   - Zips: 84310, 84315, 84317, 84401, 84403, 84404, 84405, 84414
 
-## WY — Wyoming
+## WY — Wyoming ✓ COMPLETE
 **2/12 batches searched · 10 remaining**
 
 - **Batch 003** | Counties: Carbon, Converse, Crook
@@ -695,10 +695,85 @@ States with unsearched zip code batches. Each entry lists the exact batches, cou
   - Cities: Newcastle, Osage, Ten Sleep, Upton
   - Zips: 82442, 82701, 82723, 82730
 
+## AL — Alabama ✓ COMPLETE
+**42/42 batches searched · 0 remaining**
+
+## AR — Arkansas ✓ COMPLETE
+**40/40 batches searched · 0 remaining**
+
+## IL — Illinois ✓ COMPLETE
+**66/66 batches searched · 0 remaining**
+
 ---
 
-## Not Started (no batch config)
+## MS — Mississippi ✓ COMPLETE
+**29/29 batches searched · 0 remaining**
 
-AL, AR, IL, IN, IA, KS, KY, LA, MA, MI, MN, MS, MO, NE, ND, OH, OK, SD, TN, TX, WI
+## ND — North Dakota ✓ COMPLETE
+**26/26 batches searched · 0 remaining**
+
+## SD — South Dakota ✓ COMPLETE
+**26/26 batches searched · 0 remaining**
+
+## IA — Iowa ✓ COMPLETE
+**63/63 batches searched · 0 remaining**
+
+## IN — Indiana ✓ COMPLETE
+**51/51 batches searched · 0 remaining**
+
+## KS — Kansas ✓ COMPLETE
+**47/47 batches searched · 0 remaining**
+
+## Completed: LA (86 resources · 35 batches)
+
+**35/35 batches searched · 0 remaining**
+
+## Completed: MA (92 resources · 34 batches)
+
+**34/34 batches searched · 0 remaining**
+
+## Completed: NE (68 resources · 39 batches)
+
+**39/39 batches searched · 0 remaining**
+
+## Completed: TN (97 resources · 41 batches)
+
+**41/41 batches searched · 0 remaining**
+
+## Completed: OK (103 resources · 44 batches)
+
+**44/44 batches searched · 0 remaining**
+
+## Completed: KY (109 resources · 51 batches)
+
+**51/51 batches searched · 0 remaining**
+
+## Completed: WI (129 resources · 52 batches)
+
+**52/52 batches searched · 0 remaining**
+
+## Completed: MN (144 resources · 58 batches)
+
+**58/58 batches searched · 0 remaining**
+
+## Completed: MI (158 resources · 65 batches)
+
+**65/65 batches searched · 0 remaining**
+
+## Completed: TX (137 resources · 65 batches)
+
+**65/65 batches searched · 0 remaining**
+
+## Completed: MO (124 resources · 66 batches)
+
+**66/66 batches searched · 0 remaining**
+
+## Completed: OH (171 resources · 66 batches)
+
+**66/66 batches searched · 0 remaining**
+
+---
+
+## All 50 states + DC complete!
 
 These states need batch config files created before scanning can begin.
